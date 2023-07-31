@@ -13,6 +13,7 @@ public class Main {
         int b = c1.square(8,4,3);
         System.out.println(b);
         int sum = c1.add(100,100);
+
         System.out.println(sum);
     }
 }
