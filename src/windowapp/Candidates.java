@@ -26,4 +26,8 @@ public class Candidates {
 
     }
 
+    @Override
+    public String toString() {
+        return "Name:"+" "+name+" "+",Height:"+ height;
+    }
 }
